@@ -170,3 +170,5 @@ We acknowledge partial support for Qiskit development from the DOE Office of Sci
 ## License
 
 [Apache License 2.0](LICENSE.txt)
+#   q u a n t u m - a l g o r i t h m s - f o r - c h e m i s t r y  
+ 
